@@ -46,9 +46,8 @@
   ## Name
   Fabiola C. Gamboa
 
-  ## [Github](https://github.com/Fabscg)
+  ## [Github](https://github.com/Fabscg/finance-monitor)
   
-
   ## [Email](fabiscg79@gmail.com)
 
   ## [Heroku](https://finance-monitor.herokuapp.com/)
