@@ -51,3 +51,5 @@
   ## [Email](fabiscg79@gmail.com)
 
   ## [Heroku](https://finance-monitor.herokuapp.com/)
+
+  ## ![Finance Monitor Mock-up](/images/budget-tracker.png)
