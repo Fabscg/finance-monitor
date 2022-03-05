@@ -21,13 +21,13 @@
  
 
   # Description
-   AS a user, I want to be able to track all my money that I make and also the money that I spend I WANT to be able to keeo track of my expenses using an safe app, that even when I lost connection to the internet, I can still monitor my budget.
+   AS a user, I want to be able to track all my money that I make and also the money that I spend, I WANT to be able to keep track of my expenses using a safe app, that even when I lost connection to the internet, I can still monitor my budget.
 
   # Installation
   Mongodb Express Mongoose
 
   # Usage
-  This application it is deployed in heroku, the link is at the bottom of this file, YOu only need to open it in a browser or phone and use it with or without internet. You also can find a repo in the github page and use npm install, then you can enter npm start, the terminal will open in the port localhost:3001 to be able to see the app 
+  This application it is deployed in heroku, the link is at the bottom of this file, You only need to open it in a browser or phone and use it with or without internet. You also can find a repo in the github page and use npm install, then you can enter npm start, the terminal will open in the port localhost:3001 to be able to see the app 
 
   # Credits
   none
