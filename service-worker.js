@@ -4,9 +4,9 @@ const CACHE_NAME = APP_PREFIX + VERSION;
 
 const FILES_TO_CACHE = [
     "./index.html",
-    "./public/css/style.css",
-    "./public.index.js",
-    "./routes.api.js"
+    "./routes.api.js",
+    "./public/js/index.js",
+    "./public/css/style.css"
 ];
 
 //Respond with cached resources
